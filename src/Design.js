@@ -194,7 +194,8 @@ function Design() {
                </button> 
               </div>   
         </div>
-
+   
+   
         <div className='row justify-content-center m-0 p-0' style={{width: '100%'}}>
              <div className='col-12 d-flex justify-content-center ' style={{zIndex: 2, overflowX: 'auto', width: '100%'}}>
                <button onClick={handleNextBottom} style={bottomsButtonStyle} >
