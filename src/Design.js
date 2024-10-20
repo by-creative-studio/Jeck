@@ -177,7 +177,7 @@ function Design() {
           </div>
         </div>
 
-      <div className='container m-0 p-0 hidden-when-download' style={{position: 'relative', bottom:'170px'}}>
+      <div className='container m-0 p-0 hidden-when-download' style={{position: 'relative', bottom:'150px'}}>
         <div className='row d-flex justify-content-center m-0 p-0' style={{width: '100%'}} >
              <div className='d-flex justify-content-center col-sm-12'  style={{zIndex: 2, overflowX: 'auto', width: '100%'}} >
                <button onClick={handleNextShoes} style={bottomsButtonStyle} >
@@ -194,6 +194,7 @@ function Design() {
                </button> 
               </div>   
         </div>
+   
 
         <div className='row justify-content-center m-0 p-0' style={{width: '100%'}}>
              <div className='col-12 d-flex justify-content-center ' style={{zIndex: 2, overflowX: 'auto', width: '100%'}}>
